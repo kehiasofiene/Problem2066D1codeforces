@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Codeforcessolutions\bin\Debug\net6.0\Codeforcessolutions.exe
+C:\Users\ASUS\Desktop\Codeforcessolutions\bin\Debug\net6.0\Codeforcessolutions.deps.json
+C:\Users\ASUS\Desktop\Codeforcessolutions\bin\Debug\net6.0\Codeforcessolutions.runtimeconfig.json
+C:\Users\ASUS\Desktop\Codeforcessolutions\bin\Debug\net6.0\Codeforcessolutions.dll
+C:\Users\ASUS\Desktop\Codeforcessolutions\bin\Debug\net6.0\Codeforcessolutions.pdb
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.dll
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\refint\Codeforcessolutions.dll
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.pdb
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\Codeforcessolutions.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Codeforcessolutions\obj\Debug\net6.0\ref\Codeforcessolutions.dll
